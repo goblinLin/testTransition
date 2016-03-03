@@ -3,6 +3,12 @@
 -- main.lua
 -- 本範例示範如何使用transition，用以產生移動動畫，更多細節請參考以下網址
 -- https://docs.coronalabs.com/api/library/transition/to.html
+-- 教學重點:
+-- 1.transition.to的參數說明
+-- 2.transition其他函數說明
+-- 3.convenitent function說明
+-- 4.easing說明(https://docs.coronalabs.com/daily/api/library/easing/index.html)
+--
 -- Author: Zack Lin
 -- Time: 2015/8/24
 -----------------------------------------------------------------------------------------
